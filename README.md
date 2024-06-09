@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test
 For screening test, clone the repo and follow the steps to run the app.
 
@@ -12,3 +13,6 @@ How to run the app:
 	Open a new command line interface.Navigate to the directory.
 	Execute the command npm run dev.
 
+=======
+# project1
+>>>>>>> 503c113054f75c3c911eab1ee50b9a3073472600
